@@ -12,5 +12,5 @@ function fact (n)
 end
 print("请输入一个数字:")
 
-a = io.read("*n") -- reads a number print(fact(a))
+a = io.read("*n")
 print(fact(a))
