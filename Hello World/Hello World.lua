@@ -4,3 +4,4 @@
 --- DateTime: 2022/12/13 15:15
 ---
 print("Hello World !")
+print("你好，世界！")
