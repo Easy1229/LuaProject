@@ -3,4 +3,4 @@
 --- Created by 28594.
 --- DateTime: 2022/12/13 15:15
 ---
-print("Hello World ! ")
+print("Hello World !")
