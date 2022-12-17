@@ -22,3 +22,4 @@ end
 print("--------自定义索引--------")
 array={[0]=1,2,3,[-1]=4}
 print(array[0])
+print(#array)
