@@ -10,5 +10,5 @@
 数据类型\
 `number,string,nil,boolean, function,table,userdata,thread`
 - 2022/12/17 学习内容\
-循环语句,条件分支语句,函数
+循环语句,条件分支语句,函数,表,迭代器遍历
  
