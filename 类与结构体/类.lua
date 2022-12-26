@@ -37,3 +37,6 @@ print(student.test01())
 print(student.test02())
 print(student:test03())
 print(student:test04())
+for i, v in pairs(_G) do
+    print(i,v)
+end
